@@ -1,0 +1,7 @@
+{
+  "name": "Monet's Garden - Light & Shadow",
+  "description": "A WebGL interactive art experience inspired by Claude Monet. Control the transition between Day and Night using hand gestures (Open Hand = Day, Closed Fist = Night). Powered by Three.js and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
